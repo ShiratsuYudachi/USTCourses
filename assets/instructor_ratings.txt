@@ -1,0 +1,711 @@
+Instructor: CHAN, Jessica
+Bayes Rating: 0.9210526315789473
+Total Reviews Count: 28
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 3, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: HOPKINS, Mark
+Bayes Rating: 0.9166666666666666
+Total Reviews Count: 26
+Average Rating: 1.00
+Courses Taught:
+	CORE1403A - Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	LANG1002A - English for University Studies I (Reviews Count: 4, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 9, Average Rating: 1.00)
+------
+Instructor: LI, Eugene
+Bayes Rating: 0.9166666666666666
+Total Reviews Count: 26
+Average Rating: 1.00
+Courses Taught:
+	CORE1403A - Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	LANG1002S - English for University Studies I (Reviews Count: 2, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 6, Average Rating: 1.00)
+------
+Instructor: YUNG, Hoi Hei
+Bayes Rating: 0.9166666666666666
+Total Reviews Count: 26
+Average Rating: 1.00
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 8, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: ENGLAND, Graham James Fisher
+Bayes Rating: 0.9090909090909091
+Total Reviews Count: 23
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 9, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 6, Average Rating: 1.00)
+------
+Instructor: TANG, Kin Hun
+Bayes Rating: 0.896551724137931
+Total Reviews Count: 19
+Average Rating: 1.00
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	LANG1002A - English for University Studies I (Reviews Count: 9, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: CHONG, Doreen
+Bayes Rating: 0.8947368421052632
+Total Reviews Count: 28
+Average Rating: 0.96
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 19, Average Rating: 0.95)
+	LANG1003S - English for University Studies II (Reviews Count: 4, Average Rating: 1.00)
+------
+Instructor: TSANG, Alfred Jones
+Bayes Rating: 0.8928571428571429
+Total Reviews Count: 18
+Average Rating: 1.00
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 2, Average Rating: 1.00)
+	CORE1403A - Academic English for University Studies (Reviews Count: 2, Average Rating: 1.00)
+	LANG1002I - English for University Studies I (Reviews Count: 5, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 6, Average Rating: 1.00)
+------
+Instructor: FREEMAN, Danyal Jonathan
+Bayes Rating: 0.8928571428571429
+Total Reviews Count: 18
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 2, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: HO, Sze Han Fiona
+Bayes Rating: 0.8888888888888888
+Total Reviews Count: 17
+Average Rating: 1.00
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 4, Average Rating: 1.00)
+	LANG1002A - English for University Studies I (Reviews Count: 8, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: HUSSIN, Nora Anniesha Binte
+Bayes Rating: 0.8846153846153846
+Total Reviews Count: 16
+Average Rating: 1.00
+Courses Taught:
+	LANG1003A - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: YEW, Liza Sook Yee
+Bayes Rating: 0.8846153846153846
+Total Reviews Count: 16
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 5, Average Rating: 1.00)
+	LANG1003I - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: WONG, Lee Long Shaun
+Bayes Rating: 0.8837209302325582
+Total Reviews Count: 33
+Average Rating: 0.94
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 3, Average Rating: 1.00)
+	LANG1002A - English for University Studies I (Reviews Count: 15, Average Rating: 0.87)
+	LANG1003A - English for University Studies II (Reviews Count: 10, Average Rating: 1.00)
+------
+Instructor: LEUNG, Chi Sun Benjamin
+Bayes Rating: 0.875
+Total Reviews Count: 14
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 10, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: LI, Po Lung
+Bayes Rating: 0.875
+Total Reviews Count: 14
+Average Rating: 1.00
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 7, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 4, Average Rating: 1.00)
+------
+Instructor: GASKELL, Delian Dawn
+Bayes Rating: 0.875
+Total Reviews Count: 22
+Average Rating: 0.95
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 9, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: FUNG, John
+Bayes Rating: 0.8717948717948718
+Total Reviews Count: 29
+Average Rating: 0.93
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 1, Average Rating: 0.00)
+	LANG1002A - English for University Studies I (Reviews Count: 14, Average Rating: 0.93)
+	LANG1003A - English for University Studies II (Reviews Count: 5, Average Rating: 1.00)
+------
+Instructor: AU, Chui Han Anita
+Bayes Rating: 0.8695652173913043
+Total Reviews Count: 13
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 3, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: YU, Anna Wai Yin
+Bayes Rating: 0.8695652173913043
+Total Reviews Count: 13
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 6, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: TANG, Eunice
+Bayes Rating: 0.8648648648648649
+Total Reviews Count: 27
+Average Rating: 0.93
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	LANG1002S - English for University Studies I (Reviews Count: 8, Average Rating: 0.88)
+	LANG1003S - English for University Studies II (Reviews Count: 4, Average Rating: 1.00)
+------
+Instructor: MCLAUGHLIN, Rosie
+Bayes Rating: 0.8648648648648649
+Total Reviews Count: 27
+Average Rating: 0.93
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	CORE1403A - Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	LANG1002A - English for University Studies I (Reviews Count: 11, Average Rating: 0.91)
+	LANG1003A - English for University Studies II (Reviews Count: 11, Average Rating: 1.00)
+------
+Instructor: WONG, Nick
+Bayes Rating: 0.8648648648648649
+Total Reviews Count: 27
+Average Rating: 0.93
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 12, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 2, Average Rating: 0.50)
+------
+Instructor: MEGAN, Melissa Jane
+Bayes Rating: 0.8636363636363636
+Total Reviews Count: 34
+Average Rating: 0.91
+Courses Taught:
+	CORE1404 - Advanced Academic English for University Studies (Reviews Count: 3, Average Rating: 0.67)
+	LANG1002A - English for University Studies I (Reviews Count: 17, Average Rating: 0.94)
+	LANG1003A - English for University Studies II (Reviews Count: 9, Average Rating: 1.00)
+------
+Instructor: SIN, Kathy Mun Yee
+Bayes Rating: 0.8541666666666666
+Total Reviews Count: 38
+Average Rating: 0.89
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 12, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 8, Average Rating: 0.88)
+------
+Instructor: MA, Wai Leung Bruce
+Bayes Rating: 0.8518518518518519
+Total Reviews Count: 17
+Average Rating: 0.94
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 7, Average Rating: 1.00)
+	LANG1003I - English for University Studies II (Reviews Count: 5, Average Rating: 0.80)
+------
+Instructor: CHAN, Sumie
+Bayes Rating: 0.85
+Total Reviews Count: 10
+Average Rating: 1.00
+Courses Taught:
+	LANG1003S - English for University Studies II (Reviews Count: 4, Average Rating: 1.00)
+------
+Instructor: YUEN, Ka Ming
+Bayes Rating: 0.8461538461538461
+Total Reviews Count: 16
+Average Rating: 0.94
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 6, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 4, Average Rating: 1.00)
+------
+Instructor: LEE, Joyce Yuen Yee
+Bayes Rating: 0.8461538461538461
+Total Reviews Count: 16
+Average Rating: 0.94
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: TSANG, Shuk Ching Elza
+Bayes Rating: 0.8421052631578947
+Total Reviews Count: 9
+Average Rating: 1.00
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	CORE1403S - Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: SEK, Man Chi Ivy
+Bayes Rating: 0.8421052631578947
+Total Reviews Count: 9
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 6, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: LEE, William Wai Lam
+Bayes Rating: 0.84
+Total Reviews Count: 15
+Average Rating: 0.93
+Courses Taught:
+	LANG1003A - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: FOO, Pionie Kim Ling
+Bayes Rating: 0.8333333333333334
+Total Reviews Count: 8
+Average Rating: 1.00
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 3, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: YIP, Ka Yue Carmel
+Bayes Rating: 0.8260869565217391
+Total Reviews Count: 13
+Average Rating: 0.92
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 5, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: CHENG, Wai Yi Rosita
+Bayes Rating: 0.8214285714285714
+Total Reviews Count: 18
+Average Rating: 0.89
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 5, Average Rating: 0.80)
+	LANG1003S - English for University Studies II (Reviews Count: 7, Average Rating: 1.00)
+------
+Instructor: SADHWANI, Dinesh Arjan
+Bayes Rating: 0.8205128205128205
+Total Reviews Count: 29
+Average Rating: 0.86
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 15, Average Rating: 0.93)
+	LANG1003A - English for University Studies II (Reviews Count: 5, Average Rating: 1.00)
+------
+Instructor: LAM, Toni
+Bayes Rating: 0.8125
+Total Reviews Count: 6
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 2, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: HOGUE, Teresa
+Bayes Rating: 0.8095238095238095
+Total Reviews Count: 11
+Average Rating: 0.91
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	LANG1002A - English for University Studies I (Reviews Count: 3, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: FARMER, Rebecca
+Bayes Rating: 0.8064516129032258
+Total Reviews Count: 21
+Average Rating: 0.86
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 3, Average Rating: 0.00)
+	LANG1002A - English for University Studies I (Reviews Count: 7, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 4, Average Rating: 1.00)
+------
+Instructor: LAM, Levi
+Bayes Rating: 0.8055555555555556
+Total Reviews Count: 26
+Average Rating: 0.85
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: SAMPSON, Nicholas
+Bayes Rating: 0.8
+Total Reviews Count: 25
+Average Rating: 0.84
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 5, Average Rating: 0.80)
+	CORE1404 - Advanced Academic English for University Studies (Reviews Count: 2, Average Rating: 1.00)
+	LANG1002A - English for University Studies I (Reviews Count: 4, Average Rating: 0.75)
+------
+Instructor: LEE, Ping Chung Eric
+Bayes Rating: 0.8
+Total Reviews Count: 10
+Average Rating: 0.90
+Courses Taught:
+	CORE1403S - Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	LANG1002S - English for University Studies I (Reviews Count: 4, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: ZYCHOWICZ, Piotr
+Bayes Rating: 0.8
+Total Reviews Count: 5
+Average Rating: 1.00
+Courses Taught:
+	CORE1404 - Advanced Academic English for University Studies (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: SIU, Chi Ming Anthony
+Bayes Rating: 0.8
+Total Reviews Count: 15
+Average Rating: 0.87
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 6, Average Rating: 0.83)
+	LANG1003S - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: CHAN, Thomas Anthony Chun Hun
+Bayes Rating: 0.8
+Total Reviews Count: 10
+Average Rating: 0.90
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+	LANG1003I - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: WEST, Leonard Kip
+Bayes Rating: 0.8
+Total Reviews Count: 5
+Average Rating: 1.00
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: WONG, Chun Ho
+Bayes Rating: 0.8
+Total Reviews Count: 10
+Average Rating: 0.90
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: MA, Kwong Wai Bruce
+Bayes Rating: 0.8
+Total Reviews Count: 5
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 4, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: SAKURAI, Kazuhiro
+Bayes Rating: 0.8
+Total Reviews Count: 5
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: NG, Choi Ping Martha
+Bayes Rating: 0.7894736842105263
+Total Reviews Count: 28
+Average Rating: 0.82
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 7, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: LEE, Hoi Ming
+Bayes Rating: 0.7894736842105263
+Total Reviews Count: 9
+Average Rating: 0.89
+Courses Taught:
+	LANG1002I - English for University Studies I (Reviews Count: 7, Average Rating: 0.86)
+------
+Instructor: CLAYTON, Anne Catherine
+Bayes Rating: 0.7857142857142857
+Total Reviews Count: 18
+Average Rating: 0.83
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 10, Average Rating: 0.80)
+	LANG1003A - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: LAM, Chak Yan Jessie Teresa
+Bayes Rating: 0.7857142857142857
+Total Reviews Count: 18
+Average Rating: 0.83
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 4, Average Rating: 1.00)
+------
+Instructor: MCMINN, Sean William John
+Bayes Rating: 0.7857142857142857
+Total Reviews Count: 4
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: LADAO, Miguel Antonio
+Bayes Rating: 0.7857142857142857
+Total Reviews Count: 4
+Average Rating: 1.00
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: HO, Susanna Pui San
+Bayes Rating: 0.78125
+Total Reviews Count: 22
+Average Rating: 0.82
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 10, Average Rating: 0.70)
+	LANG1003A - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: MAK, Linda Yeung Oi
+Bayes Rating: 0.7777777777777778
+Total Reviews Count: 17
+Average Rating: 0.82
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 1, Average Rating: 1.00)
+	LANG1002S - English for University Studies I (Reviews Count: 8, Average Rating: 0.88)
+	LANG1003S - English for University Studies II (Reviews Count: 6, Average Rating: 0.67)
+------
+Instructor: YEUNG, Alex H.L.
+Bayes Rating: 0.7692307692307693
+Total Reviews Count: 3
+Average Rating: 1.00
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: KWAN, Yuen Tung Gloria
+Bayes Rating: 0.7647058823529411
+Total Reviews Count: 7
+Average Rating: 0.86
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 4, Average Rating: 1.00)
+------
+Instructor: CHI, Man Lai Amy
+Bayes Rating: 0.7619047619047619
+Total Reviews Count: 11
+Average Rating: 0.82
+Courses Taught:
+	LANG1003S - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: CHANG, Sue Chee Fong
+Bayes Rating: 0.7619047619047619
+Total Reviews Count: 11
+Average Rating: 0.82
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 7, Average Rating: 0.71)
+	LANG1003A - English for University Studies II (Reviews Count: 4, Average Rating: 1.00)
+------
+Instructor: LEE, Pui
+Bayes Rating: 0.7567567567567568
+Total Reviews Count: 27
+Average Rating: 0.78
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 7, Average Rating: 0.71)
+	LANG1003S - English for University Studies II (Reviews Count: 10, Average Rating: 0.80)
+------
+Instructor: GLOFCHESKI, Maisie
+Bayes Rating: 0.75
+Total Reviews Count: 2
+Average Rating: 1.00
+Courses Taught:
+	CORE1403S - Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: MC RAE, Shawn
+Bayes Rating: 0.75
+Total Reviews Count: 2
+Average Rating: 1.00
+Courses Taught:
+	CORE1403S - Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: EASTWOOD, Martin Antony
+Bayes Rating: 0.75
+Total Reviews Count: 2
+Average Rating: 1.00
+Courses Taught:
+	CORE1403S - Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: YU, Anna Po Shan
+Bayes Rating: 0.75
+Total Reviews Count: 22
+Average Rating: 0.77
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 12, Average Rating: 0.83)
+	LANG1003A - English for University Studies II (Reviews Count: 3, Average Rating: 0.67)
+------
+Instructor: LI, Angie Eugenia
+Bayes Rating: 0.75
+Total Reviews Count: 14
+Average Rating: 0.79
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: SHEN, Chi
+Bayes Rating: 0.75
+Total Reviews Count: 10
+Average Rating: 0.80
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 3, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: WONG, Wei Wah
+Bayes Rating: 0.75
+Total Reviews Count: 2
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: WONG, Grace Hoi Yee
+Bayes Rating: 0.75
+Total Reviews Count: 2
+Average Rating: 1.00
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: BLACK, Douglas Aaron
+Bayes Rating: 0.75
+Total Reviews Count: 2
+Average Rating: 1.00
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: WONG, Elaine Suk Yi
+Bayes Rating: 0.7391304347826086
+Total Reviews Count: 13
+Average Rating: 0.77
+Courses Taught:
+	LANG1003I - English for University Studies II (Reviews Count: 8, Average Rating: 0.75)
+------
+Instructor: LIAO, May
+Bayes Rating: 0.7307692307692307
+Total Reviews Count: 16
+Average Rating: 0.75
+Courses Taught:
+	LANG1002A - English for University Studies I (Reviews Count: 8, Average Rating: 0.75)
+	LANG1003A - English for University Studies II (Reviews Count: 5, Average Rating: 1.00)
+------
+Instructor: MAK, Linda Y O
+Bayes Rating: 0.7272727272727273
+Total Reviews Count: 1
+Average Rating: 1.00
+Courses Taught:
+	CORE1403I - Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: YIK, Ping Chui
+Bayes Rating: 0.7272727272727273
+Total Reviews Count: 12
+Average Rating: 0.75
+Courses Taught:
+	CORE1403S - Academic English for University Studies (Reviews Count: 1, Average Rating: 0.00)
+	LANG1002A - English for University Studies I (Reviews Count: 6, Average Rating: 0.83)
+	LANG1003S - English for University Studies II (Reviews Count: 3, Average Rating: 1.00)
+------
+Instructor: ZHOU, Siyang
+Bayes Rating: 0.7272727272727273
+Total Reviews Count: 1
+Average Rating: 1.00
+Courses Taught:
+	CORE1404 - Advanced Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: KOYLU, Yilmaz
+Bayes Rating: 0.7272727272727273
+Total Reviews Count: 1
+Average Rating: 1.00
+Courses Taught:
+	CORE1404 - Advanced Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: MUDDEMAN, Gary
+Bayes Rating: 0.7272727272727273
+Total Reviews Count: 1
+Average Rating: 1.00
+Courses Taught:
+	CORE1404 - Advanced Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: MA, Martin, T. C.
+Bayes Rating: 0.7272727272727273
+Total Reviews Count: 1
+Average Rating: 1.00
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: POPLE, Jan
+Bayes Rating: 0.7272727272727273
+Total Reviews Count: 1
+Average Rating: 1.00
+Courses Taught:
+	LANG1003S - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: TOOGOOD, Sarah
+Bayes Rating: 0.7272727272727273
+Total Reviews Count: 1
+Average Rating: 1.00
+Courses Taught:
+	LANG1003S - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: LEE, William
+Bayes Rating: 0.7142857142857143
+Total Reviews Count: 4
+Average Rating: 0.75
+Courses Taught:
+	CORE1403A - Academic English for University Studies (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: CHUNG, Andrew Kwok Kuie
+Bayes Rating: 0.6923076923076923
+Total Reviews Count: 3
+Average Rating: 0.67
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+	LANG1003S - English for University Studies II (Reviews Count: 2, Average Rating: 0.50)
+------
+Instructor: CHEUNG, Colin
+Bayes Rating: 0.6666666666666666
+Total Reviews Count: 23
+Average Rating: 0.65
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 2, Average Rating: 0.00)
+	LANG1002A - English for University Studies I (Reviews Count: 9, Average Rating: 0.67)
+	LANG1003S - English for University Studies II (Reviews Count: 2, Average Rating: 1.00)
+------
+Instructor: CHAN, Yee Him
+Bayes Rating: 0.6666666666666666
+Total Reviews Count: 2
+Average Rating: 0.50
+Courses Taught:
+	LANG1003S - English for University Studies II (Reviews Count: 2, Average Rating: 0.50)
+------
+Instructor: WONG, Ka Sin
+Bayes Rating: 0.6428571428571429
+Total Reviews Count: 4
+Average Rating: 0.50
+Courses Taught:
+	CORE1403S - Academic English for University Studies (Reviews Count: 1, Average Rating: 0.00)
+	LANG1002S - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: CHEUNG, Anisa
+Bayes Rating: 0.6086956521739131
+Total Reviews Count: 13
+Average Rating: 0.54
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 7, Average Rating: 0.71)
+	LANG1003S - English for University Studies II (Reviews Count: 4, Average Rating: 0.00)
+------
+Instructor: NG, Irene Wai Yee
+Bayes Rating: 0.6
+Total Reviews Count: 10
+Average Rating: 0.50
+Courses Taught:
+	LANG1002S - English for University Studies I (Reviews Count: 1, Average Rating: 1.00)
+	LANG1003A - English for University Studies II (Reviews Count: 7, Average Rating: 0.57)
+------
+Instructor: STAMPER, Suzan
+Bayes Rating: 0.5833333333333334
+Total Reviews Count: 2
+Average Rating: 0.00
+Courses Taught:
+	CORE1404 - Advanced Academic English for University Studies (Reviews Count: 2, Average Rating: 0.00)
+------
+Instructor: CHONG, Siu Chung
+Bayes Rating: 0.5
+Total Reviews Count: 8
+Average Rating: 0.25
+Courses Taught:
+	LANG1002I - English for University Studies I (Reviews Count: 6, Average Rating: 0.17)
+	LANG1003S - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
+Instructor: WONG, Kai Hung
+Bayes Rating: 0.45454545454545453
+Total Reviews Count: 12
+Average Rating: 0.25
+Courses Taught:
+	CORE1402 - English Language for University Studies (Reviews Count: 3, Average Rating: 0.00)
+	LANG1002S - English for University Studies I (Reviews Count: 4, Average Rating: 0.25)
+	LANG1003S - English for University Studies II (Reviews Count: 1, Average Rating: 1.00)
+------
